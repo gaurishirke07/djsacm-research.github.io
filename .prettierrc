@@ -1,7 +1,4 @@
 {
-  "printWidth": 100,
-  "quoteProps": "as-needed",
-  "trailingComma": "all",
   "tabWidth": 2,
-  "semi": false
+  "useTabs": false
 }
