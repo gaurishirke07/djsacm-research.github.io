@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@DJSACM-Research/djsacm-research.github.io",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.5.2",
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://djsacm-research.github.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/DJSACM-Research/djsacm-research.github.io.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
