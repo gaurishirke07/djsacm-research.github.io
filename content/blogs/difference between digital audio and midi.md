@@ -1,7 +1,7 @@
 ---
 title: "Difference Between Digital Audio and MIDI"
 date: 2025-09-27
-tags: [Audio, MIDI, Digital]
+tags: [Audio, MIDI, Digital, Difference Between]
 ---
 
 ## Pre-requisites: Audio Format
