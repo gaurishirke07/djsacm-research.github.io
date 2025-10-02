@@ -16,7 +16,7 @@ Binary data is used to represent sound in digital audio. It entails transforming
 
 ---
 
-<img src="/images/digitalaudio_midi.png" alt="Digital Audio vs MIDI" style="width: 100%; max-width: 600px; display: block; margin: 1rem auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="/images/blogs/digitalaudio_midi.png" alt="Digital Audio vs MIDI" style="width: 100%; max-width: 600px; display: block; margin: 1rem auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 ## MIDI
 
@@ -42,7 +42,7 @@ Using a common set of commands and messages, the MIDI (Musical Instrument Digita
 <h3> ✍️ Written By </h3>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 1.5rem;">
-  <img src="/images/mihir.png" alt="Mihir" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+  <img src="/images/authors/mihir.png" alt="Mihir" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
   <div>
     <p style="margin: 0; font-size: 1.1rem; font-weight: bold;">Mihir Panchal</p>
     <p style="margin: 0; color: #555;">Author • Researcher • Engineer</p>
