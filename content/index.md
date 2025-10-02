@@ -19,19 +19,19 @@ Meet the brilliant minds leading our research initiatives:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 2rem 0;">
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <img src="/images/ankur.png" alt="Ankur" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/ankur.png" alt="Ankur" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Ankur Vasani</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <img src="images/aakarshit.png" alt="Aakarshit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/aakarshit.png" alt="Aakarshit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Aakarshit Saxena</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <img src="/images/ishaan.png" alt="Ishaan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/ishaan.png" alt="Ishaan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Ishaan Sheth</p>
     <p style="color: #666;">Research Head</p>
   </div>
@@ -41,13 +41,13 @@ Meet the brilliant minds leading our research initiatives:
 <div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
-    <img src="/images/pearl.png" alt="Pearl" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/pearl.png" alt="Pearl" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Pearl Mody</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
-    <img src="/images/rishit.png" alt="Rishit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/rishit.png" alt="Rishit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Rishit Kar</p>
     <p style="color: #666;">Research Head</p>
   </div>
@@ -59,13 +59,13 @@ Meet the brilliant minds leading our research initiatives:
 <div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
-    <img src="/images/mihir.png" alt="Mihir" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/mihir.png" alt="Mihir" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Mihir Panchal</p>
     <p style="color: #666;">Research Mentor</p>
   </div>
 
   <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
-    <img src="images/tirath.png" alt="Tirath" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+    <img src="/images/introduction/tirath.png" alt="Tirath" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Tirath Bhathawala</p>
     <p style="color: #666;">Research Mentor</p>
   </div>
