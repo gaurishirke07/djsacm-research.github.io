@@ -18,19 +18,19 @@ Meet the brilliant minds leading our research initiatives:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 2rem 0;">
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/ankur.png" alt="Ankur" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Ankur Vasani</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/aakarshit.png" alt="Aakarshit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Aakarshit Saxena</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/ishaan.png" alt="Ishaan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Ishaan Sheth</p>
     <p style="color: #666;">Research Head</p>
@@ -38,15 +38,15 @@ Meet the brilliant minds leading our research initiatives:
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0; max-width:575px; justify-content: center; margin-left: auto; margin-right: auto;">
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/pearl.png" alt="Pearl" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Pearl Mody</p>
     <p style="color: #666;">Research Head</p>
   </div>
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/rishit.png" alt="Rishit" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Rishit Kar</p>
     <p style="color: #666;">Research Head</p>
@@ -56,22 +56,21 @@ Meet the brilliant minds leading our research initiatives:
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin: 2rem 0; max-width:575px; justify-content: center; margin-left: auto; margin-right: auto;">
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/mihir.png" alt="Mihir" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Mihir Panchal</p>
     <p style="color: #666;">Research Mentor</p>
   </div>
 
-  <div style="text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; width: calc((100% - 4rem) / 3);">
+  <div style="box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.3); cursor: pointer; text-align: center; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='scale(0.98)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='5px 5px 5px 2px rgba(0, 0, 0, 0.3)'">
     <img src="/images/introduction/tirath.png" alt="Tirath" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
     <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">Tirath Bhathawala</p>
     <p style="color: #666;">Research Mentor</p>
   </div>
 
 </div>
-
 
 ---
 
@@ -113,8 +112,8 @@ We're always looking for passionate researchers, students, and collaborators to 
 
 Ready to explore the future of technology with us? Reach out to our research team to learn more about our work and opportunities for collaboration.
 
-**Email**: acmresearchcore@gmail.com  
+**Email**: acmresearchcore@gmail.com
 
 ---
 
-*Empowering innovation through rigorous research and collaborative discovery.*
+_Empowering innovation through rigorous research and collaborative discovery._
