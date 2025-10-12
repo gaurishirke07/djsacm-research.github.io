@@ -1,6 +1,6 @@
 ---
 title: "Git, Github and Hacktoberfest"
-date: 2024-10-5
+date: 2025-10-5
 tags: [Research, Seminar, ACM, Research Paper, How to Read]
 ---
 
