@@ -1,3 +1,7 @@
+---
+title: "Darshan Davda"
+---
+
 # Hi, I'm Darshan Davda 👋
 
 ## About Me
@@ -7,4 +11,4 @@ I’m a Computer Science student passionate about AI/ML, game development, web t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-davda-5b84b2333)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshanDavda)
 
-<img src="" alt="Darshan Davda">
+<img src="../images/introduction/darshan.jpg" alt="Darshan Davda">
