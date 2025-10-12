@@ -1,6 +1,6 @@
 ---
 title: "How to Read Research Papers"
-date: 2024-10-12
+date: 2025-10-12
 tags: [Research, Seminar, ACM, Research Paper, How to Read]
 ---
 
