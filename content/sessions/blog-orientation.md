@@ -1,6 +1,6 @@
 ---
 title: "ACM Blog Orientation Session"
-date: 2024-09-24
+date: 2025-09-24
 tags: [Research, Seminar, ACM, Blog]
 ---
 
